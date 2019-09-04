@@ -1,7 +1,5 @@
 # Binary Converter
  
-## Muajeh Lee
- 
 ### Quick Overview
 For my [microbit](https://microbit.org/) program I decided to make a simple binary converter that takes _base 10 numbers_ and converts them to binary. This converter can only convert a maximum number of **31**.
 
